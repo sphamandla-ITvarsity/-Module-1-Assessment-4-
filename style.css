@@ -1,0 +1,14 @@
+table{
+    font-family: Halvetica, sans-serif;
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 1px;
+}
+
+th{
+    font-weight: 900;
+    background-color: darkblue;
+    color: floralwhite;
+    
+}
